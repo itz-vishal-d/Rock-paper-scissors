@@ -1,5 +1,5 @@
-# network_rock_paper_scissors_game
-This repository contains complete source codes for a network rock-paper-scissors game. See game session video here: https://youtu.be/-WJN1uhbUhw
+#rock_paper_scissors_game
+
 
 To run the application:
 
@@ -11,4 +11,4 @@ To run the application:
 6. Enter player name and click on "Connect" button
 
 * The game starts when two clients (players) are connected. 
-* Enjoy!
+* Enjoy the GAME!
